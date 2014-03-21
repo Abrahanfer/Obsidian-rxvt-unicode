@@ -1,0 +1,50 @@
+! This program is free software: you can redistribute it and/or modify
+! it under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version.
+
+! This program is distributed in the hope that it will be useful,
+! but WITHOUT ANY WARRANTY; without even the implied warranty of
+! MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+! GNU General Public License for more details.
+
+! You should have received a copy of the GNU General Public License
+! along with this program.  If not, see <http://www.gnu.org/licenses/>.
+!
+! Copyright (C) 2014 by Abrahán Fernández Nieto
+!! Obsidian color theme
+urxvt*cursorColor: #804000
+
+urxvt*background: #293134
+urxvt*foreground: #E0E2E4
+
+!! black colors
+urxvt*color0: #000000
+urxvt*color8: #555555
+!! red colors
+urxvt*color1: #A50001
+urxvt*color9: #FF0003
+
+!! green dark/light
+urxvt*color2: #00BB00
+urxvt*color10: #93C863
+ 
+!! yellow dark/light
+urxvt*color3: #FECC22
+urxvt*color11: #FEF874
+ 
+!! blue dark/light
+urxvt*color4: #3A9BDB
+urxvt*color12: #A1D7FF
+ 
+!! magenta dark/light
+urxvt*color5: #BB00BB
+urxvt*color13: #FF55FF
+ 
+!! cyan dark/light
+urxvt*color6: #00BBBB
+urxvt*color14: #55FFFF
+ 
+!! white dark/light
+urxvt*color7: #bbbbbb
+urxvt*color15: #ffffff
